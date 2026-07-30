@@ -1,3 +1,5 @@
-Streamlit
+streamlit
 Pandas
-Ploty
+Ploty 
+scikit-learn
+numpy
